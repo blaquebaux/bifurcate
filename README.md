@@ -39,3 +39,9 @@ where credit genuinely leads for name-specific distress — which the aggregate 
 **Research.** Honest null — a capital-structure thesis tested at the only level the data allows (aggregate), found
 non-predictive, with the paired-trade inversion and the issuer-level data gap stated plainly. Lead-lag correlation,
 divergence-conditional forward returns, leg decomposition, Alpaca SIP daily total return. No live capital.
+
+## Mirage audit — null CONFIRMED (apparent credit-timing is SPY beta)
+
+A credit-timed equity book's apparent **+7.2%/yr alpha collapses to ~0** under controls ([nullbar/mirage](https://github.com/blaquebaux/nullbar));
+**SPY alone adds +32pp R² while killing it** (corr 0.65), and the credit (HYG) coefficient's sign is stable only 50% of
+the time. The "credit leads equity" return is just equity beta — confirming the index-level NULL.
